@@ -2,11 +2,8 @@ if not syn or not protectgui then
     getgenv().protectgui = function()end
 end
 local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/TrashOwns/Setup/main/LIB'))()
-Library:SetWatermark("NN Owner")
-Library:Notify('Script By Trash')
-Library:Notify('Shoutout Spiral')
-Library:Notify('Zari is hot')
-Library:Notify('Fucking owned retard')
+Library:SetWatermark("catgirlhook.pw")
+Library:Notify('Injected')
 
 local Camera = workspace.CurrentCamera
 local Players = game:GetService("Players")
