@@ -1,4 +1,4 @@
-workspace.CurrentCamera.FieldOfView = 100
+workspace.CurrentCamera.FieldOfView = 120
 
 local InputService = game:GetService('UserInputService');
 local TextService = game:GetService('TextService');
