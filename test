@@ -1,3 +1,5 @@
+workspace.CurrentCamera.FieldOfView = 80
+
 if not syn or not protectgui then
     getgenv().protectgui = function()end
 end
